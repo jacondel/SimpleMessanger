@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jacob/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jacob/AndroidStudioProjects/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jacob/Documents/Courses/CSE486/PA1/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jacob/Documents/Courses/CSE486/PA1/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

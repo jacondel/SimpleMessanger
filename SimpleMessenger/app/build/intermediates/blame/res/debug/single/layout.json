@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jacob/Documents/Courses/CSE486/PA1/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jacob/Documents/Courses/CSE486/PA1/SimpleMessenger/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/jacob/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jacob/AndroidStudioProjects/SimpleMessenger/app/src/main/res/layout/main.xml"
+    }
+]
